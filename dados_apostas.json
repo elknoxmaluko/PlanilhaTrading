@@ -1,0 +1,203 @@
+{
+    "equipas": {
+        "Nome": {
+            "0": "Benfica",
+            "1": "Sporting",
+            "2": "benfica",
+            "3": "sporting"
+        }
+    },
+    "campeonatos": {
+        "Nome": {
+            "0": "etgf",
+            "1": "Liga Portuguesa"
+        },
+        "Temporada": {
+            "0": 2025.0,
+            "1": 2025.0
+        },
+        "Jogos": {
+            "0": 1.0,
+            "1": 0.0
+        }
+    },
+    "estrategias": {
+        "Nome": {
+            "0": "BackBásico",
+            "1": "Under +1",
+            "2": "Revalida"
+        },
+        "Descrição": {
+            "0": "",
+            "1": "Under no mercado seguinte.",
+            "2": "Lay Zebra"
+        },
+        "Equipa": {
+            "0": "gfasdfrg",
+            "1": "",
+            "2": ""
+        },
+        "Tags": {
+            "0": "",
+            "1": "",
+            "2": ""
+        }
+    },
+    "tags": [
+        "BolaParada",
+        "Penalty",
+        "Nenhuma"
+    ],
+    "mensal": {
+        "Janeiro": {
+            "Data": {
+                "0": "2025-04-23"
+            },
+            "Competição": {
+                "0": "etgf"
+            },
+            "Casa": {
+                "0": "Benfica"
+            },
+            "Visitante": {
+                "0": "Sporting"
+            },
+            "Estrategia": {
+                "0": "BackBásico"
+            },
+            "Tag": {
+                "0": "BolaParada"
+            },
+            "Stake": {
+                "0": 5.0
+            },
+            "Profit/Loss": {
+                "0": 2.0
+            },
+            "% Stake": {
+                "0": 40.0
+            }
+        },
+        "Fevereiro": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Março": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Abril": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Maio": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Junho": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Julho": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Agosto": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Setembro": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Outubro": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Novembro": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        },
+        "Dezembro": {
+            "Data": {},
+            "Competição": {},
+            "Casa": {},
+            "Visitante": {},
+            "Estrategia": {},
+            "Tag": {},
+            "Stake": {},
+            "Profit/Loss": {},
+            "% Stake": {}
+        }
+    }
+}
